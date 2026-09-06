@@ -3,17 +3,17 @@
 // Uses INPUT_PULLUP: wiring should connect switches between pin and GND
 
 const uint8_t NUM_BUTTONS = 8;
-const uint8_t buttonPins[NUM_BUTTONS] = {2, 3, 4, 5, 6, 7}; // change pins as needed
+const uint8_t buttonPins[NUM_BUTTONS] = {23, 22, 1, 3, 21, 19, 18, 5}; // change pins as needed
 
 // Extra button + LED
-const uint8_t EXTRA_BUTTON_PIN = 8;
-const uint8_t EXTRA_LED_PIN = 13;
+const uint8_t EXTRA_BUTTON_PIN = 36;
+const uint8_t EXTRA_LED_PIN = 39;
 
 // Two-way selector (SPDT-like): one side -> RED, other side -> GREEN
-const uint8_t TW_RED_PIN = 9;    // reads LOW when selector is on RED side
-const uint8_t TW_GREEN_PIN = 10; // reads LOW when selector is on GREEN side
-const uint8_t RED_LED_PIN = 12;
-const uint8_t GREEN_LED_PIN = 11;
+const uint8_t TW_RED_PIN = 34;    // reads LOW when selector is on RED side
+const uint8_t TW_GREEN_PIN = 35; // reads LOW when selector is on GREEN side
+const uint8_t RED_LED_PIN = 32;
+const uint8_t GREEN_LED_PIN = 33;
 
 // Debounce settings
 const unsigned long debounceDelay = 50; // ms
