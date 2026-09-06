@@ -84,6 +84,47 @@ Push buttons
 
 </tr>
 
+
+<tr>
+
+<td width="16.6666666667%" align="center" valign="middle">
+
+ESP-32 Microcontroller
+
+</td>
+
+<td width="16.6666666667%" align="center" valign="middle">
+
+<img src="../Images/ESP32.jpg" width="150">
+
+</td>
+
+<td width="16.6666666667%" align="center" valign="middle">
+
+Electrical wire
+
+</td>
+
+<td width="16.6666666667%" align="center" valign="middle">
+
+<img src="../Images/Wire.jpg" width="150">
+
+</td>
+
+<td width="16.6666666667%" align="center" valign="middle">
+
+Wooden board
+
+</td>
+
+<td width="16.6666666667%" align="center" valign="middle">
+
+<img src="../Images/Board.jpg" width="150">
+
+</td>
+
+</tr>
+
 </table>
 
 
