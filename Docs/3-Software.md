@@ -13,12 +13,14 @@ System Requirements: - Laptop/PC with MS Windows OS, MS-Power point, Arduino IDE
 
 
 - Settings for initiation of desired PC application are accomplished on the GOBETWINO settings window.
+  
 ![Circuit diagram](../Images/gobetwino.webp)
 
 
 [⬆️ Back to README](../README.md)
 
 - Commence and establish connection between CITS Trainer & GOBETWINO application on PC by the USB link.
+
 ![Circuit diagram](../Images/gobetwino1.jpg)
 
 
