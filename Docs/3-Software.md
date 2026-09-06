@@ -1,6 +1,6 @@
 # Software
 
-- [Code](Docs/CITS-Code.txt)
+- [Code](../Docs/CITS-Code.txt)
 
 System Requirements: - Laptop/PC with MS Windows OS, MS-Power point, Arduino IDE, GOBETWINO.
 
