@@ -48,37 +48,37 @@ Fuse
 
 <td width="16.6666666667%" align="center" valign="middle">
 
-Step down transformer
+LED
 
 </td>
 
 <td width="16.6666666667%" align="center" valign="middle">
 
-<img src="../Images/Trans.jpg" width="150">
+<img src="../Images/LED.jpg" width="150">
 
 </td>
 
 <td width="16.6666666667%" align="center" valign="middle">
 
-Rectifier diode
+Push buttons
 
 </td>
 
 <td width="16.6666666667%" align="center" valign="middle">
 
-<img src="../Images/Diode.jpg" width="150">
+<img src="../Images/Button.jpg" width="150">
 
 </td>
 
 <td width="16.6666666667%" align="center" valign="middle">
 
-Fuse
+2-way switch
 
 </td>
 
 <td width="16.6666666667%" align="center" valign="middle">
 
-<img src="../Images/Fuse.jpg" width="150">
+<img src="../Images/Switch.jpg" width="150">
 
 </td>
 
