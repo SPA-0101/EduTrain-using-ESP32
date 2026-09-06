@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 This is an interactive training system for the center tapped full wave rectifier.
 
@@ -11,10 +11,10 @@ This is an interactive training system for the center tapped full wave rectifier
   - electrical interconnection
   - real life working.
   - interact and initiate various contents viz. videos, PPTs, webpages, Chat GPT etc.
-  - 
+
 </td>
 
-<td width="50%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
 <img src="Images/intro.png" width="300">
 
