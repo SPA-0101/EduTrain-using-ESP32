@@ -1,5 +1,7 @@
 # Software
 
+- [Code] (../Docs/Code.txt)
+
 System Requirements: - Laptop/PC with MS Windows OS, MS-Power point, Arduino IDE, GOBETWINO.
 
 [⬆️ Back to README](../README.md)
