@@ -27,7 +27,6 @@
 <img src="../Images/Diode.jpg" width="150">
 
 </td>
-<tr>
 
 <td width="16.6666666667%" valign="middle">
 
