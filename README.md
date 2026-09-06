@@ -1,11 +1,10 @@
 # EduTrain-using-ESP32
-# 1. ESP32+Blynk_Home Automation
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-# This is an interactive training system for the center tapped full wave rectifier.
+This is an interactive training system for the center tapped full wave rectifier.
 
 -  Training system gives an opportunity for the learner to: -
   - physically identify the components
