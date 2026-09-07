@@ -95,7 +95,7 @@ ESP-32 Microcontroller
 
 <td width="16.6666666667%" align="center" valign="middle">
 
-<img src="../Images/ESP32.jpeg" width="150">
+<img src="../Images/ESP32.jpg" width="150">
 
 </td>
 
