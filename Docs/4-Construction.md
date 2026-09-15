@@ -7,9 +7,11 @@
 ![Buttons](../Images/Con5a.jpg)
 - Make holes for push buttons and install them.
 
+[⬆️ Back to README](../README.md)
+
 ![Rectifier](../Images/Con3a.jpg)  
 - Install the components for the full wave rectifier and interconnect them by soldering as required.
-[⬆️ Back to README](../README.md)
+
 !Circuit Diagram](../Images/circuit.png)
 
 - Construct the debounce ckt for buttons i.a.w circuit diagram on common PCB.
