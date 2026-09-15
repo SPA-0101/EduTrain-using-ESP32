@@ -13,48 +13,72 @@
 
 # 2. Operation
 
-[⬆️ Back to README](../README.md)
 <table>
 <tr>
 
-<td width="16.6666666667%" align="center" valign="middle">
+<td width="5%" align="center" valign="middle">
 
-Step down transformer
-
-</td>
-
-<td width="16.6666666667%" align="center" valign="middle">
-
-<img src="../Images/Trans.jpg" width="150">
+##### SL
 
 </td>
 
-<td width="16.6666666667%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
 
-Rectifier diode
-
-</td>
-
-<td width="16.6666666667%" align="center" valign="middle">
-
-<img src="../Images/Diode.jpg" width="150">
+###### Push Button
 
 </td>
 
-<td width="16.6666666667%" align="center" valign="middle">
+<td align="left" valign="middle">
 
-Fuse
-
-</td>
-
-<td width="16.6666666667%" align="center" valign="middle">
-
-<img src="../Images/Fuse.jpg" width="150">
+###### Output effect on the laptop.
 
 </td>
+
 
 </tr>
 
-  
+<tr>
+
+<td width="5%" align="center" valign="middle">
+
+1
+
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+F (Fuse)
+
+</td>
+
+<td align="center" valign="middle">
+
+Video file explaining fuse opens and runs. 
+
+</td>
+<tr>
+
+<td width="5%" align="center" valign="middle">
+
+2
+
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+T (Transformer)
+
+</td>
+
+<td align="left" valign="middle">
+
+Webpage regarding stepdown transformer opens.
+
+</td>
+
+
+</tr>
+
+ 
 
 [⬆️ Back to README](../README.md)
