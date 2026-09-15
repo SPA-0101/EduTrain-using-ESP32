@@ -140,4 +140,62 @@ This button enables resetting/ closing of any running application started by any
 </td>
 </tr>
 
+
 [⬆️ Back to README](../README.md)
+
+- 2-way switch selection on the CITS trainer and observe the following: -
+
+<table>
+<tr>
+
+<td width="5%" align="center" valign="middle">
+
+#### SL
+
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+#### Push Button
+
+</td>
+
+<td align="center" valign="middle">
+
+#### Output effect on the laptop.
+
+</td>
+
+
+</tr>
+
+<tr>
+
+<td width="5%" align="center" valign="middle">
+
+1
+
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+F (Fuse)
+
+</td>
+
+<td align="center" valign="middle">
+
+Video file explaining fuse opens and runs. 
+
+</td>
+<tr>
+<td width="5%" align="center" valign="middle">
+2
+</td>
+<td width="30%" align="center" valign="middle">
+T (Transformer)
+</td>
+<td align="left" valign="middle">
+Webpage regarding stepdown transformer opens.
+</td>
+</tr>
