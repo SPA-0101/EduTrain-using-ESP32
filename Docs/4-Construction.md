@@ -15,9 +15,12 @@
 ![Circuit Diagram](../Images/circuit.png)
 
 - Construct the debounce ckt for buttons i.a.w circuit diagram on common PCB.
-- Solder the female header for the ESP32.
 
 ![Circuit Constructed](../Images/Con4a.jpg)
+
+- Solder the female header for the ESP32.
+
+![Circuit Constructed](../Images/Con2a.jpg)
 
 - Connect push buttons, LEDs and Switches to the ESP32 GPIOs as in the diagram & sketch.
 
