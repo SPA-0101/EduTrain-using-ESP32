@@ -19,6 +19,6 @@
 
 ![Circuit Constructed](../Images/Con4a.jpg)
 
-- Connect push buttons, LEDs and Switches to the ESP32 GPIOs as in the sketch.
+- Connect push buttons, LEDs and Switches to the ESP32 GPIOs as in the diagram & sketch.
 
 [⬆️ Back to README](../README.md)
