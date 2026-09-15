@@ -12,7 +12,7 @@
 ![Rectifier](../Images/Con3a.jpg)  
 - Install the components for the full wave rectifier and interconnect them by soldering as required.
 
-!Circuit Diagram](../Images/circuit.png)
+![Circuit Diagram](../Images/circuit.png)
 
 - Construct the debounce ckt for buttons i.a.w circuit diagram on common PCB.
 - Solder the female header for the ESP32.
