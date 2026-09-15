@@ -16,13 +16,19 @@
 <table>
 <tr>
 <td width="5%" align="center" valign="middle">
+ 
 #### SL
+
 </td>
 <td width="30%" align="center" valign="middle">
+ 
 #### Push Button
+
 </td>
 <td align="center" valign="middle">
-#### Output effect on the laptop.
+
+ #### Output effect on the laptop.
+
 </td>
 </tr>
 <tr>
