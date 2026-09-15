@@ -185,7 +185,7 @@ Simulates electrical short circuit, which in turn indicates blown off fuse by bl
 </td>
 </tr>
 </td>
-
+</table>
 [⬆️ Back to README](../README.md)
 
 ![1.Setting Up](../Images/Blynk.jpg)
