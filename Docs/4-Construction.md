@@ -4,7 +4,7 @@
 
 - Prepare a wooden board, trainer laminated face plate printout and stick them together.
 
-[Code](../Images/Con5a.jpg)
+[Buttons](../Images/Con5a.jpg)
 - Make holes for push buttons and install them.
 
 [Rectifier](../Images/Con3a.jpg)  
@@ -18,7 +18,5 @@
 [Circuit Constructed](../Images/Con4a.jpg)
 
 - Connect push buttons, LEDs and Switches to the ESP32 GPIOs as in the sketch.
-
-[Code](../Images/Con2a.jpg)
 
 [⬆️ Back to README](../README.md)
