@@ -186,3 +186,10 @@ Simulates electrical short circuit, which in turn indicates blown off fuse by bl
 </tr>
 </td>
 
+[⬆️ Back to README](../README.md)
+
+![1.Setting Up](../Images/Blynk.jpg)
+
+- CITS Trainer system is capable of connectivity over the internet through BLYNK mobile app. This feature is useful for the teacher to engage students and assess them during online training sessions. Below image depicts the interaction features configured on mobile app to enhance training effectiveness.
+
+[⬆️ Back to README](../README.md)
