@@ -15,46 +15,25 @@
 
 <table>
 <tr>
-
 <td width="5%" align="center" valign="middle">
-
 #### SL
-
 </td>
-
 <td width="30%" align="center" valign="middle">
-
 #### Push Button
-
 </td>
-
 <td align="center" valign="middle">
-
 #### Output effect on the laptop.
-
 </td>
-
-
 </tr>
-
 <tr>
-
 <td width="5%" align="center" valign="middle">
-
 1
-
 </td>
-
 <td width="30%" align="center" valign="middle">
-
 F (Fuse)
-
 </td>
-
-<td align="center" valign="middle">
-
+<td align="left" valign="middle">
 Video file explaining fuse opens and runs. 
-
 </td>
 <tr>
 <td width="5%" align="center" valign="middle">
@@ -139,7 +118,7 @@ Reset
 This button enables resetting/ closing of any running application started by any push button.
 </td>
 </tr>
-
+</table>
 
 [⬆️ Back to README](../README.md)
 
@@ -156,13 +135,13 @@ This button enables resetting/ closing of any running application started by any
 
 <td width="30%" align="center" valign="middle">
 
-#### Push Button
+#### Switch Position
 
 </td>
 
 <td align="center" valign="middle">
 
-#### Output effect on the laptop.
+#### Output effect on the CITS trainer
 
 </td>
 
@@ -179,13 +158,13 @@ This button enables resetting/ closing of any running application started by any
 
 <td width="30%" align="center" valign="middle">
 
-F (Fuse)
+Normal
 
 </td>
 
-<td align="center" valign="middle">
+<td align="left" valign="middle">
 
-Video file explaining fuse opens and runs. 
+Simulates normal operation with resistive load (R) indicating LED lights up in red color.
 
 </td>
 <tr>
@@ -193,9 +172,11 @@ Video file explaining fuse opens and runs.
 2
 </td>
 <td width="30%" align="center" valign="middle">
-T (Transformer)
+Short Circuit
 </td>
 <td align="left" valign="middle">
-Webpage regarding stepdown transformer opens.
+Simulates electrical short circuit, which in turn indicates blown off fuse by blue LED and resistive load (R) loses its power indicated by red color LED turns to OFF condition. 
 </td>
 </tr>
+</td>
+
