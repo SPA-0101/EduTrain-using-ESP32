@@ -1,3 +1,6 @@
+[⬆️ Back to README](../README.md)
+
+
 // 6_switches.ino
 // Cleaned, expanded sketch for 6 switches with non-blocking debounce
 // Uses INPUT_PULLUP: wiring should connect switches between pin and GND
@@ -171,3 +174,5 @@ void updateTwoWaySwitch() {
   lastTwRedReading = redReading;
   lastTwGreenReading = greenReading;
 }
+
+[⬆️ Back to README](../README.md)
